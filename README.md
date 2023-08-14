@@ -32,4 +32,4 @@ npm start
 
 ## Opcional
 
-- Puedes modificar el width final de las imágenes en el archivo [app.js].
+- Puedes modificar el width final de las imágenes en el archivo app.js.
